@@ -34,7 +34,7 @@ Navigate through the website using the navigation links. Click on projects to di
 
 ## Screenshots
 
-![portfolio demo](./images/myportfolio.png)
+![portfolio demo](./images/myportfolio.jpg)
 
 ## Contributing
 
